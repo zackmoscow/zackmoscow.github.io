@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name":"Zack Moscow",
+    "occupation":"full-stack developer",
+    "description":"with extensive leadership and entrepreneurship experience. I've led teams in project management, creative oversight, market expansion, product innovation and Fortune-100 B2B sales. I'm an inventive and agile problem solver with a quick-learning aptitude for new technologies and a get-it-done attitude. Let's build together.",
+    "image":"profilepic.jpg",
+    "bio":"When I'm not coding or working on startup ideas, I enjoy playing board games (especially Catan and Backgammon), tinkering with vintage synthesizers and organs, golfing, cooking, and watching college basketball (University of Kentucky) and pro hockey (Nashville Predators)!",
+    "contactmessage":"Please get in touch!",
+    "email": "zmoscow@gmail.com",
+    "phone": "859.221.0006",
+    "address":{
+      "city":"Nashville",
+      "state":"Tennessee",
+      "zip": "37206"
+    },
+    "website": "https://zackmoscow.github.io",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/zackmoscow/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/zackmoscow/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "skills":{
+    "skillmessage":"HERE ARE SOME WEB TECHNOLOGIES I LIKE WORKING WITH:",
+    "skills":[
+      {
+        "name":"HTML5",
+        "image":"html-5.svg"
+      },
+      {
+        "name":"CSS3",
+        "image":"css-3.svg"
+      },
+      {
+        "name":"JavaScript",
+        "image":"javascript.svg"
+      },
+      {
+        "name":"React",
+        "image":"react.svg"
+      },
+      {
+        "name":"Node",
+        "image":"nodejs.svg"
+      },
+      {
+        "name":"Express",
+        "image":"express.svg"
+      },
+      {
+        "name":"MySQL",
+        "image":"mysql.svg"
+      },
+      {
+        "name":"MongoDB",
+        "image":"mongodb.svg"
+      }
+    ],
+    "education":[
+      {
+        "school":"Vanderbilt University",
+        "degree":"Bootcamp Certificate (Full Stack Web Development)",
+        "graduated":"2020",
+        "description":"An intensive program focused on gaining programming proficiency in a wide range of web technologies. Received \"MVP\" award from instructional team; A+ academic average."
+      },
+      {
+        "school":"University of Pennsylvania",
+        "degree":"B.A. (Commerce and Communication)",
+        "graduated":"2008",
+        "description":"Major through the Annenberg School of Communication with additional management and marketing coursework through the Wharton School of Business."
+      }
+    ],
+    "work":[
+      {
+        "company":"One Green Liter",
+        "title":"Owner",
+        "years":"2017 - Present",
+        "description":"Ran daily operations for a boutique wine importer focused on organic European wines in sustainable packaging. Led annual business planning with wholesalers, brand identity refresh with increased supply chain profitability, market expansion and product innovations."
+      },
+      {
+        "company":"Rhinegeist Brewery",
+        "title":"Director of Sales (New Markets and National Accounts)",
+        "years":"2014 - 2017",
+        "description":"Played integral role in growing Rhinegeist from a startup microbrewery to a top-50 US craft brewer. Founded and fostered relationships with key national accounts. Led sales analytics and forecasting team (sales reports, syndicated data analysis, competitive/pricing analysis.)"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"The Game of Prompts",
+        "category":"A multiplayer party game where users can submit and match responses to a prompt.",
+        "image":"prompts.jpg",
+        "url":"https://game-of-prompts.herokuapp.com/"
+      },
+      {
+        "title":"Club Soda",
+        "category":"A full stack web app designed to organize meet-ups for users with common interests.",
+        "image":"clubsoda.jpg",
+        "url":"https://clubsodaapp.herokuapp.com/"
+      },
+      {
+        "title":"ReelStream",
+        "category":"An application to search for any movie and provide relevant information.",
+        "image":"reelstream.jpg",
+        "url":"https://zackmoscow.github.io/reelstream/"
+      },
+      {
+        "title":"Best Buy Store",
+        "category":"A full stack app allowing users to search the Best Buy API and add products to a cart.",
+        "image":"bestbuy.jpg",
+        "url":"https://bestbuyapistore.herokuapp.com/"
+      }
+    ]
+  }
+}
